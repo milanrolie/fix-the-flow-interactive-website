@@ -1,48 +1,23 @@
-# Coding the Curbs
-_________________________________________________________________________________________________
+## Interactie
 
-:postal_horn: Inhoud
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/112857190/214014931-ad9f028d-4f94-46f2-9ceb-433dff960a9e.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/112857190/214015007-0a431be7-8258-4426-83e2-ea6ee12cee98.png">
 
- * Introductie
- * Live versie
- * Talen
- * Installatie
- * Funcites
-_________________________________________________________________________________________________
+### Interacties
+Op deze website heb ik meerdere interacties gemaakt. Ik heb mij veel gefocust op smooth en interessante animaties. Het begon met het animeren van een slider, hierbij heb ik code van internet gevonden en deze in aangepast en begrepen. De andere interactie is het extra vlak links op de pagina. Bij dit vlak kun je extra content zien. Ik ben persoonlijk erg trots op de soepelheid van de animatie. Het zijn twee losse objecten die samen één worden. 
 
-<img width="888" alt="image" src="https://user-images.githubusercontent.com/112857190/200804976-07d35ad8-a6de-47ca-b005-1b8c7e23a569.png">
-<img width="888" alt="image" src="https://user-images.githubusercontent.com/112857190/200804840-84b640f0-b78f-4ff3-864f-5cf06916c240.png">
-<img width="888" alt="image" src="https://user-images.githubusercontent.com/112857190/200805525-02a87b48-fb4f-4c77-85ed-8ec4a9c18fb8.png">
+<img width="830" alt="image" src="https://user-images.githubusercontent.com/112857190/214016853-8e94b8c7-0cac-4b5f-b1b6-bfb93a6d5553.png">
 
 
-:postal_horn: Introductie: Dit is een opdracht van de opleiding FDND in Amsterdam. Coding the Curbs is een start-up die sinds januari 2020 werkt aan het slimmer maken van de steden. Door de ruimte in een stad te 'coderen' is het mogelijk om plekken diverse functies te laten vervullen op verschillende momenten. Denk daarbij aan een parkeerplek die ruimte biedt voor laden & lossen doordeweeks, en voor terrassen in het weekend. Sinds onze start zijn wij een stuk verder met het ontwikkelen van ons product. 
+De derde interactie is een ontzettend ingewikkelde slider van afbeeldingen die ik samen met een youtube tutorial heb gemaakt. Ik ben erg trots dat dit mij is gelukt te volgen.
 
-Aan ons is de opdracht gegeven een aantal user cases aan te pakken. Er is een pagina nodig voor een overzicht van de smartzones te maken. Er moet ook een info pagina komen voor alle smartzones. Je kan een smartzone reserveren en met behulp van de kaart krijf je een goed overzicht van alles. 
+De muisanimatie heb ik gebruit voor de opdracht. Ik wilde dat de muis verschillende hover states had. Dit was uiteindelijk een stuk ingewikkelder dan ik dacht. Door JS te gebruiken heb ik voor elkaar gekregen dat de muis zich overal anders gedraagt.
 
-Deze web applicatie werkt op desktop en als mobiele versie. Alle informatie die te zien is wordt gehaald aan een JSon bestand, ook te vinden in de reposetory.
-_________________________________________________________________________________________________
+<img width="656" alt="image" src="https://user-images.githubusercontent.com/112857190/214016907-349509cf-11ff-4556-9ad7-a63e18990e29.png">
 
-:postal_horn: De live versie is te vinden op: https://knetters.github.io/coding-the-curbs/
+## Test website + interactie
 
-De mobiele web applicatie is te bekijken door te inspecteren in de browser en responsive design aan te klikken.
-<img width="113" alt="image" src="https://user-images.githubusercontent.com/112857190/200806462-934b5ea9-5b47-4288-83dc-6446e56e2b72.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/112857190/214015188-f2567b33-788f-4917-b48b-928160a63862.png">
+<img width="1185" alt="image" src="https://user-images.githubusercontent.com/112857190/214015246-0cbb68f9-75f4-4eda-8771-de41b0c3ef45.png">
 
-_________________________________________________________________________________________________
-
-:postal_horn: Dit project is gemaakt met de volgende talen:
-
-> :triangular_flag_on_post: HTML<br>
-> :triangular_flag_on_post: CSS<br>
-> :triangular_flag_on_post: JavaScript<br>
-
-We maken gebruik van custom properties. Kleuren en afstanden staan vast.
-_________________________________________________________________________________________________
-
-:postal_horn: Installatie: Je kan de bestandsmap downloaden of het project clonen; je hoeft verder niks te installeren. Om de website lokaal te bekijken kan je het index.html bestand openen.
-_________________________________________________________________________________________________
-
-:postal_horn: Functies: Voor het overzicht maken we gebruik van leaflet.js. Dit is een dinamische kaart die we kunnen opmaken met eigen locaties en markers. De kaart gaat over de gehele pagina heen en heeft een z-index van 0 zodat de kaart op de ondergrond blijft en de elementen er boven op kunnen liggen.
-
-```
-Gemaakt door Milan en Thomas.
-```
+In de website van coding the curbs heb ik erg veel interactie toegevoegd, alles wat je ziet beweegt eigenlijk. Hierdoor heb ik het laten blijken dat het een web-app is. Ik heb geprobeerd de gebruiker mee te nemen in een proces. Dit is aardig gelukt al zeg ik het zelf.
